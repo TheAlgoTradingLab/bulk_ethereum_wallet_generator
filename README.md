@@ -1,5 +1,5 @@
-# Ethereum wallet generator
-This is a simple script to quickly generate ETH wallet addresses to a .csv file.
+# Bulk Ethereum wallet generator
+This is a simple script to quickly generate ETH public and private keys to a .csv file.
 
 It validates the address through eth-keys lib and additionally checks if the checksum matches public address before saving them to a file.
 
